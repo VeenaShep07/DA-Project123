@@ -30,5 +30,10 @@ Beyond simple lists and totals, Excel offers powerful tools such as tables, filt
   
 - [Python]
 
--  <img width="1659" height="587" alt="image" src="https://github.com/user-attachments/assets/0b52fd63-9695-4a67-b13a-92d9ce5dffe5" />
+## Project files
+
+- [Python coding notebook](Python_coding.ipynb)
+  
+
+
 
