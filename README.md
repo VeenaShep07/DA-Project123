@@ -32,8 +32,9 @@ Beyond simple lists and totals, Excel offers powerful tools such as tables, filt
 
 ## Project files
 
-- [Python coding notebook](Python_coding.ipynb)
-  [Python coding notebook](Untitled24.ipynb)
+- [Python coding notebook 1](Python_coding.ipynb)
+- <br>
+  [Python coding notebook 2](Untitled24.ipynb)
   
   
 
