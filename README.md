@@ -17,7 +17,8 @@ Microsoft Excel is a spreadsheet program that helps you organise, calculate, and
 
 Beyond simple lists and totals, Excel offers powerful tools such as tables, filters, and PivotTables, which allow you to slice large datasets and answer practical questions, like which product line is most profitable or how attendance has changed over time. Because it integrates easily with other Microsoft applications, Excel is widely used in workplaces across the UK for reporting, data analysis, and presenting clear visual summaries that support everyday decision‑making
 
-
+<br>
+<br>
 
 
 
